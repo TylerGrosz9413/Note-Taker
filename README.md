@@ -1,3 +1,7 @@
+# Note-Taker
+
+A React app that allows the user to create notes with a title and body content and to delete notes. It also has a note counter at the bottom of the page, showing the number of notes they have. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
